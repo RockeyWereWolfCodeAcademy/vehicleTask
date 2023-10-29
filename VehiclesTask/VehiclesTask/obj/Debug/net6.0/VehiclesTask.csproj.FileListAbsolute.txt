@@ -1,0 +1,14 @@
+C:\Users\User\VehiclesTask\VehiclesTask\bin\Debug\net6.0\VehiclesTask.exe
+C:\Users\User\VehiclesTask\VehiclesTask\bin\Debug\net6.0\VehiclesTask.deps.json
+C:\Users\User\VehiclesTask\VehiclesTask\bin\Debug\net6.0\VehiclesTask.runtimeconfig.json
+C:\Users\User\VehiclesTask\VehiclesTask\bin\Debug\net6.0\VehiclesTask.dll
+C:\Users\User\VehiclesTask\VehiclesTask\bin\Debug\net6.0\VehiclesTask.pdb
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.AssemblyInfoInputs.cache
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.AssemblyInfo.cs
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.csproj.CoreCompileInputs.cache
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.dll
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\refint\VehiclesTask.dll
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.pdb
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\VehiclesTask.genruntimeconfig.cache
+C:\Users\User\VehiclesTask\VehiclesTask\obj\Debug\net6.0\ref\VehiclesTask.dll
